@@ -11,7 +11,6 @@ In this app, the 'pom.xml is here:
 
     ----> actual-project
     
-    
         ----> multi-module
         
         ----> single-module
