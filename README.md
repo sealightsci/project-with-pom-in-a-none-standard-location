@@ -9,16 +9,11 @@ In this app, the 'pom.xml is here:
     Workspace
 
 
-    ----> Folder-A
+    ----> actual-project
     
     
-        ----> Module-A
+        ----> multi-module
         
-        
-        ----> Module-B
-        
-        
-        ----> Module-C
-        
+        ----> single-module
         
         ----> pom.xml
