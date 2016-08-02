@@ -4,9 +4,21 @@ This project simulates a client application in which the POM file is located in 
 By default, the 'pom.xml' is found directly under the workspace.
 
 In this app, the 'pom.xml is here:
-Workspace
+
+
+    Workspace
+
+
     ----> project
+    
+    
         ----> Module-A
+        
+        
         ----> Module-B
+        
+        
         ----> Module-C
+        
+        
         ----> pom.xml
