@@ -9,7 +9,7 @@ In this app, the 'pom.xml is here:
     Workspace
 
 
-    ----> project
+    ----> Folder-A
     
     
         ----> Module-A
